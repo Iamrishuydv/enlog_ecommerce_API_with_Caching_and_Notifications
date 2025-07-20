@@ -165,10 +165,6 @@ ecommerce/
 
 ## 🧑‍💻 Author
 
-Created by **Your Name** – [rishuydvatwork@gmail.com](mailto:rishuydvatwork@gmail.com)
+Created by **Rishu Raj** – [rishuydvatwork@gmail.com](mailto:rishuydvatwork@gmail.com)
 
 ---
-
-## 📜 License
-
-MIT License
